@@ -1,2 +1,4 @@
 # Tetris1
-My game - study project
+
+Hello!
+This is the game I created as a study project. Enjoy it!
