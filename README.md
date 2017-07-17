@@ -1,4 +1,3 @@
-# Tetris1
+# Hello!
 
-Hello!
-This is the game I created as a study project. Enjoy it!
+I only started programminga and I would like to share my new projects. Enjoy it!
